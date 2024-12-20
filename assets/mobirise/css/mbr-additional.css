@@ -1363,6 +1363,9 @@ a {
 .cid-tgsJKWeU3F img,
 .cid-tgsJKWeU3F .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-tgsJKWeU3F .item:focus,
 .cid-tgsJKWeU3F span:focus {
